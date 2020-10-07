@@ -1,0 +1,30 @@
+table.controls {
+  width: 100%;
+}
+
+table.controls td {
+  width: 33%;
+}
+
+table.controls td button,.action  {
+  font-size: 34pt;
+  width: 100%;
+}
+
+table.controls td button.half, .action.half {
+  width: 50%;
+  display: inline-block;
+}
+
+.App {
+  text-align: center;
+}
+
+.camera, .lidar  {
+  display: inline-block;
+  width: 50%;
+}
+
+.camera img {
+  width: 100%;
+}
